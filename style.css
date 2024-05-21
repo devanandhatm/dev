@@ -1,15 +1,21 @@
-h3{
-    text-align: center;
+.login
+{
+    border: 1px snow;
+    float:right;
+    background-color: black;
+    margin-top: 60px;
+    margin-right: 30px;
+    width:16cm;
+    padding:30px;
 }
-.box{
-    text-align: right;
+#btn{
+    background-color: rgb(28, 71, 43);
+    width:100%;
+    color: beige;
+    border:none;
+    height:8%;
+
 }
-#haii{
-    color:rgb(0, 255, 234);
-}
-.pre{
-    text-align: center;
-}
-h1{
+.login{
     text-align: center;
 }
